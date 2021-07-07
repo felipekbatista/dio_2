@@ -14,3 +14,10 @@ git add 	adiciona arquivos que estao prontos para serem comitados
 
 git commit -m "mensagem aqui" 		comita o arquivo
 git log 	registro dos commits 
+
+git branch 	retorna todos os branchs e " * " indica qual branch estou 
+
+git reset -soft/mixes/hard
+	-soft: apenas desfaz o commit, deixa os arquivos prontos pra comitar
+	-mixed: desfaz o commit e o modify, deixa os arquivos não prontos pra 	commit
+	-hard: apaga tudo o que foi feito 

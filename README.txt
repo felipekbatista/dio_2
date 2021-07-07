@@ -18,3 +18,8 @@ v1.3
 adicionei o arquivo nitrogenio.word que contem os capitulos 
 1 - introducao e revisao historica
 2 - materias-prima
+
+v1.4 
+adicionei o comando
+"git branch"
+"git reset - soft/mixd/hard"
