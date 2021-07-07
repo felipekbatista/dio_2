@@ -1,0 +1,13 @@
+comandos basicos de git 
+
+git config --global user.name "nome_aqui"
+git config user.name
+git config --global user.email "email@here.com"
+git config --list	lista com as informações 
+
+git init	inicializa um repositório 
+dir -a		mostra pastas ocultas
+
+git status 	verifica qual o status do repositorio. arquivos podem ter sido
+	ou nao adicionados, untracked, modified.... essas coisas 							
+git add 	adiciona arquivos que estao prontos para serem comitados
