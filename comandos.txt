@@ -11,3 +11,6 @@ dir -a		mostra pastas ocultas
 git status 	verifica qual o status do repositorio. arquivos podem ter sido
 	ou nao adicionados, untracked, modified.... essas coisas 							
 git add 	adiciona arquivos que estao prontos para serem comitados
+
+git commit -m "mensagem aqui" 		comita o arquivo
+git log 	registro dos commits 
