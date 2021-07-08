@@ -1,0 +1,1 @@
+arquivo criado para verificar o uso do soft reset e do hard reset no git 
