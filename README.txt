@@ -77,3 +77,8 @@ alteracoes no arquivo nitrogenio.word
 
 v2.3.1
 atualizacao do readme.txt que nao foi feita na v2.3
+
+v2.4
+comandos gitignore
+criei arquivo .gitignore
+adc nesse .gitignore o arquivo arquivo_gitignore.word que foi prontamente ignorado
