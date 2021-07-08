@@ -1,0 +1,4 @@
+arquivo criado para usar a funcao git pull
+linha 2
+linha 3
+linha 4
