@@ -58,3 +58,6 @@ adiciona linhas 6 e 7 em teste_diff.txt
 v1.9.3
 adiciona 
 git checkout HEAD -- nome_do_arquivo.file
+
+v2.0
+inihcio do uso de github

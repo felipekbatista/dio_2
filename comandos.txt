@@ -26,8 +26,13 @@ git branch nome_do_branch
 
 git checkout branch_desejado
 
-git diff 	mostra todas as alteracoes
-git diff --name-only 		mostra os nomes dos arquivos que foram alterados
-git diff nome_do_arquivo.file
+GITHUB
+gerar chave ssh pub e priv 'generate a new SSH key'
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+ssh-keygen -t ed25519 -C "your_email@example.com"
+vai gerar uma chave pk e prk numa pasta determinada pelo usuario 
+acessar essa pasta
+copiar o conteudo da pubk
+no site do githu, acessar settings/SSH and GPG keys/SSH keys 'new SSHkey'
 
-git checkout HEAD -- nome_do_arquivo.file 		restaura a versao anterior do arquivo antes do commit
+
