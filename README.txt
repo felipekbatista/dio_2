@@ -36,3 +36,6 @@ nao funcionou o soft reset de 'nitrogenio.word' do cap 3
 
 v1.7 
 cria arquivo 'teste_diff.txt'
+
+v1.7.1
+adiciona o readme.txt nesta versao, esqueci de comitar o readme
