@@ -67,3 +67,7 @@ adc comandos
 git remote
 git remote add 
 git push
+
+v2.2 
+alteracao no arquivo teste_de_git_reset.txt 
+adc linha 2 e 3 
