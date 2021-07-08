@@ -42,3 +42,12 @@ adiciona o readme.txt nesta versao, esqueci de comitar o readme
 
 v1.8
 adiciona comentahrios e remove linhas no arquivo 'teste_diff.txt'
+
+v1.9
+adiciona comandos 
+'git diff'
+git diff --name-only
+git diff nome_do_arquivo.file
+
+v1.9.1
+cria isso aqui para ser removido 

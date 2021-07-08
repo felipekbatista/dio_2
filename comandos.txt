@@ -21,3 +21,11 @@ git reset -soft/mixes/hard
 	-soft: apenas desfaz o commit, deixa os arquivos prontos pra comitar
 	-mixed: desfaz o commit e o modify, deixa os arquivos não prontos pra 	commit
 	-hard: apaga tudo o que foi feito 
+
+git branch nome_do_branch
+
+git checkout branch_desejado
+
+git diff 	mostra todas as alteracoes
+git diff --name-only 		mostra os nomes dos arquivos que foram alterados
+git diff nome_do_arquivo.file
