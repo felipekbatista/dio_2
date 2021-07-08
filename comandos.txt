@@ -34,5 +34,14 @@ vai gerar uma chave pk e prk numa pasta determinada pelo usuario
 acessar essa pasta
 copiar o conteudo da pubk
 no site do githu, acessar settings/SSH and GPG keys/SSH keys 'new SSHkey'
+gi
+para adicionar o repositorio, usar as instrucoes que estao no site
+git remote add origin url
+git remote -v  		vê quais sao as possibilidades (fetch e push)
+
+para enviar o repositorio local para o remoto
+git push -u destino_a_ser_enviado branch_que_vou_enviar
+git push -u origin master
+
 
 

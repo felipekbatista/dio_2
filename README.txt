@@ -61,3 +61,9 @@ git checkout HEAD -- nome_do_arquivo.file
 
 v2.0
 inihcio do uso de github
+
+v2.1
+adc comandos 
+git remote
+git remote add 
+git push
