@@ -46,7 +46,13 @@ git push -u origin master
 gitignore
 criar um arquivo para ignorar certos arquivos
 
+apagar branch remoto
+git push origin :branch_que_vai_ser_apagado
+apagar branch local
+git branch -D nome_do_branch_que_vai_ser_apagado
 git revert
+arquivo comitado, nao deu certo.
+acessar o log e pegar o hash desse arquivo- 
 
 
 

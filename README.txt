@@ -87,3 +87,6 @@ v2.5
 git revert
 criei o arquivo git_revert.txt para experimentar a funcao git_revert
 log: commit 121, hash: c38df2b92a238942101e6c85cb5709b71cfb33a6
+
+v2.6 
+apagar branch remoto e local
