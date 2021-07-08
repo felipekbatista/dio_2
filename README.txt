@@ -23,3 +23,8 @@ v1.4
 adicionei o comando
 "git branch"
 "git reset - soft/mixd/hard"
+
+v1.5
+adicionei modificacoes ao arquivo 
+'nitrogenio.word'
+alteracao feita no capitulo 3, ela estah errada e serah apagada futuramente 
