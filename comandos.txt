@@ -43,5 +43,13 @@ para enviar o repositorio local para o remoto
 git push -u destino_a_ser_enviado branch_que_vou_enviar
 git push -u origin master
 
+gitignore
+criar um arquivo para ignorar certos arquivos
+
+git revert
+
+
+
+
 
 

@@ -82,3 +82,7 @@ v2.4
 comandos gitignore
 criei arquivo .gitignore
 adc nesse .gitignore o arquivo arquivo_gitignore.word que foi prontamente ignorado
+
+v2.5
+git revert
+criei o arquivo git_revert.txt para experimentar a funcao git_revert
