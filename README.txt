@@ -71,3 +71,9 @@ git push
 v2.2 
 alteracao no arquivo teste_de_git_reset.txt 
 adc linha 2 e 3 
+
+v2.3
+alteracoes no arquivo nitrogenio.word
+
+v2.3.1
+atualizacao do readme.txt que nao foi feita na v2.3
