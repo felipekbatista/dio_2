@@ -29,3 +29,5 @@ git checkout branch_desejado
 git diff 	mostra todas as alteracoes
 git diff --name-only 		mostra os nomes dos arquivos que foram alterados
 git diff nome_do_arquivo.file
+
+git checkout HEAD -- nome_do_arquivo.file 		restaura a versao anterior do arquivo antes do commit
