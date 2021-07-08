@@ -93,3 +93,6 @@ apagar branch remoto e local
 
 v2.7
 cria o arquivo git_pull.txt para experimentar essa funcao
+
+v2.7.1
+ja fiz o git pull e estou com o arquivo git_pull.txt 

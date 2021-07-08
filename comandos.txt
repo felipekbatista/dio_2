@@ -54,6 +54,10 @@ git revert
 arquivo comitado, nao deu certo.
 acessar o log e pegar o hash desse arquivo- 
 
+git pull origin master
+
+recomendacao: fazer pull antes do push
+
 
 
 
