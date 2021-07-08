@@ -90,3 +90,6 @@ log: commit 121, hash: c38df2b92a238942101e6c85cb5709b71cfb33a6
 
 v2.6 
 apagar branch remoto e local
+
+v2.7
+cria o arquivo git_pull.txt para experimentar essa funcao
