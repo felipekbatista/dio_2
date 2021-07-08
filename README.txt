@@ -39,3 +39,6 @@ cria arquivo 'teste_diff.txt'
 
 v1.7.1
 adiciona o readme.txt nesta versao, esqueci de comitar o readme
+
+v1.8
+adiciona comentahrios e remove linhas no arquivo 'teste_diff.txt'
