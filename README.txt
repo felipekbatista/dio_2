@@ -51,3 +51,6 @@ git diff nome_do_arquivo.file
 
 v1.9.1
 cria isso aqui para ser removido 
+
+v1.9.2
+adiciona linhas 6 e 7 em teste_diff.txt
