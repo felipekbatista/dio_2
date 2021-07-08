@@ -33,3 +33,6 @@ v1.6
 criei um arquivo para experimentar o "git reset" 
 teste_de_git_reset.txt
 nao funcionou o soft reset de 'nitrogenio.word' do cap 3
+
+v1.7 
+cria arquivo 'teste_diff.txt'
